@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+}
+
+.browser {
+  width: 300px;
+  height: 300px;
+}
+
+.images {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.media {
+  height: 150px;
+  width: 150px;
+}
+
+.top-container {
+  background-color: #a6dcef;
+  padding-top: 100px;
+  position: relative;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.computer {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 100px;
+  top: 250px;
+}
+
+.cloud {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
